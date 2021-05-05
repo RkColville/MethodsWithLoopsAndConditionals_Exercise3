@@ -1,0 +1,7 @@
+C:\Users\Robert Colville\Desktop\Repos\MethodsWithLoopsAndConditionals-Exercise3\MethodsWithLoopsAndConditionals-Exercise3\bin\Debug\MethodsWithLoopsAndConditionals-Exercise3.exe.config
+C:\Users\Robert Colville\Desktop\Repos\MethodsWithLoopsAndConditionals-Exercise3\MethodsWithLoopsAndConditionals-Exercise3\bin\Debug\MethodsWithLoopsAndConditionals-Exercise3.exe
+C:\Users\Robert Colville\Desktop\Repos\MethodsWithLoopsAndConditionals-Exercise3\MethodsWithLoopsAndConditionals-Exercise3\bin\Debug\MethodsWithLoopsAndConditionals-Exercise3.pdb
+C:\Users\Robert Colville\Desktop\Repos\MethodsWithLoopsAndConditionals-Exercise3\MethodsWithLoopsAndConditionals-Exercise3\obj\Debug\MethodsWithLoopsAndConditionals-Exercise3.csprojAssemblyReference.cache
+C:\Users\Robert Colville\Desktop\Repos\MethodsWithLoopsAndConditionals-Exercise3\MethodsWithLoopsAndConditionals-Exercise3\obj\Debug\MethodsWithLoopsAndConditionals-Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\Robert Colville\Desktop\Repos\MethodsWithLoopsAndConditionals-Exercise3\MethodsWithLoopsAndConditionals-Exercise3\obj\Debug\MethodsWithLoopsAndConditionals-Exercise3.exe
+C:\Users\Robert Colville\Desktop\Repos\MethodsWithLoopsAndConditionals-Exercise3\MethodsWithLoopsAndConditionals-Exercise3\obj\Debug\MethodsWithLoopsAndConditionals-Exercise3.pdb
